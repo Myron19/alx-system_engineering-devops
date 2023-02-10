@@ -1,2 +1,2 @@
 #!/bin/bash
-file --school.mgc=magic.mcg input input: School 
+file --magic-file=school.mgc input input: School data 
